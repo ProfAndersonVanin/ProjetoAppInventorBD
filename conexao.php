@@ -11,4 +11,6 @@
     } /* else{
         echo "conexao_ok";
     }  */
+
+    // Incluído um comentário direto pelo github
 ?>
